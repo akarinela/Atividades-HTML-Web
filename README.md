@@ -14,3 +14,7 @@ https://akarinela.github.io/Atividade5/
 https://akarinela.github.io/Atividade6/
 
 https://akarinela.github.io/Atividade7/
+
+https://akarinela.github.io/Atividade8/
+
+https://akarinela.github.io/Atividade9/
