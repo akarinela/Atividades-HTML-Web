@@ -22,3 +22,5 @@
 • https://akarinela.github.io/Atividade10/
 
 • https://akarinela.github.io/Atividade11/
+
+• https://akarinela.github.io/Atividade12/
