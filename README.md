@@ -1,30 +1,30 @@
 # Web1
 ## Atividade HTML (14 questões):
 
-• [AtividadeI](https://akarinela.github.io/Atividade1/)
+• [Atividade 1](https://akarinela.github.io/Atividade1/)
 
-• [AtividadeII](https://akarinela.github.io/Atividade2/)
+• [Atividade 2](https://akarinela.github.io/Atividade2/)
 
-• [AtividadeIII](https://akarinela.github.io/Atividade3/)
+• [Atividade 3](https://akarinela.github.io/Atividade3/)
 
-• [AtividadeVI](https://akarinela.github.io/Atividade4/)
+• [Atividade 4](https://akarinela.github.io/Atividade4/)
 
-• [AtividadeV](https://akarinela.github.io/Atividade5/)
+• [Atividade 5](https://akarinela.github.io/Atividade5/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade6/)
+• [Atividade 6](https://akarinela.github.io/Atividade6/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade7/)
+• [Atividade 7](https://akarinela.github.io/Atividade7/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade8/)
+• [Atividade 8](https://akarinela.github.io/Atividade8/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade9/)
+• [Atividade 9](https://akarinela.github.io/Atividade9/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade10/)
+• [Atividade 10](https://akarinela.github.io/Atividade10/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade11/)
+• [Atividade 11](https://akarinela.github.io/Atividade11/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade12/)
+• [Atividade 12](https://akarinela.github.io/Atividade12/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade13/)
+• [Atividade 13](https://akarinela.github.io/Atividade13/)
 
-• [AtividadeI](https://akarinela.github.io/Atividade14/)
+• [Atividade 14](https://akarinela.github.io/Atividade14/)
