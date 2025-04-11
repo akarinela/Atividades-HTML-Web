@@ -1,7 +1,7 @@
 # Web1
 ## Atividade HTML (14 questões):
 
-• https://akarinela.github.io/Atividade1/
+• [Atividade1](https://akarinela.github.io/Atividade1/)
 
 • https://akarinela.github.io/Atividade2/
 
@@ -23,7 +23,7 @@
 
 • https://akarinela.github.io/Atividade11/
 
-• 
+• https://akarinela.github.io/Atividade12/
 
 • https://akarinela.github.io/Atividade13/
 
