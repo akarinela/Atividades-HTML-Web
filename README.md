@@ -23,7 +23,7 @@
 
 • https://akarinela.github.io/Atividade11/
 
-• https://akarinela.github.io/Atividade12/
+• 
 
 • https://akarinela.github.io/Atividade13/
 
