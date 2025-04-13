@@ -1,5 +1,8 @@
-# Webl
-## Atividade HTML (14 questões):
+# Atividades Webl Ana Karine de Freitas Oliveira
+
+Este repositório contém os links para as 14 atividades desenvolvidas na disciplina.
+
+## Índice de Atividades
 
 • [Atividade HTML 1](https://akarinela.github.io/Atividade1/)
 
