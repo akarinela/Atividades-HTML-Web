@@ -8,7 +8,7 @@ Este repositório contém os links para as 14 atividades desenvolvidas na discip
 
 • [Atividade HTML 2](https://akarinela.github.io/Atividade2/)
 
-• [Atividade HTML 3]( https://akarinela.github.io/Atividade3/)
+• [Atividade HTML 3](https://akarinela.github.io/Atividade3/)
 
 • [Atividade HTML 4](https://akarinela.github.io/Atividade4/)
 
@@ -20,7 +20,7 @@ Este repositório contém os links para as 14 atividades desenvolvidas na discip
 
 • [Atividade HTML 8]()
 
-• [Atividade HTML 9]()
+• [Atividade HTML 9](https://akarinela.github.io/Atividade9/)
 
 • [Atividade HTML 10]()
 
