@@ -15,13 +15,13 @@
 
 • [Atividade HTML 7](https://akarinela.github.io/Atividade7/)
 
-• [Atividade HTML 8](https://akarinela.github.io/Atividade8/)
+• [Atividade HTML 8]()
 
-• [Atividade HTML 9](https://akarinela.github.io/Atividade9/)
+• [Atividade HTML 9]()
 
-• [Atividade HTML 10](https://akarinela.github.io/Atividade10/)
+• [Atividade HTML 10]()
 
-• [Atividade HTML 11](https://akarinela.github.io/Atividade11/)
+• [Atividade HTML 11]()
 
 • [Atividade HTML 12](https://akarinela.github.io/Atividade12/)
 
