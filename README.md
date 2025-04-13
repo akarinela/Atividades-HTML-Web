@@ -1,8 +1,8 @@
-# Atividade HTML (Ana Karine de Freitas Oliveira)
+# Atividade HTML
 
-Este repositório contém os links para as 14 atividades desenvolvidas na disciplina.
+Este repositório contém os links para as 14 atividades desenvolvidas na disciplina Webl.
 
-## Índice de Atividades
+## Índice de Atividades - Ana Karine de Freitas Oliveira
 
 • [Atividade HTML 1](https://akarinela.github.io/Atividade1/)
 
